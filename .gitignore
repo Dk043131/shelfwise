@@ -1,0 +1,24 @@
+# Xcode
+## User settings
+xcuserdata/
+*.xcuserdatad
+*.xcscmblueprint
+*.xcuserstate
+
+## Build products
+build/
+DerivedData/
+*.moved-aside
+*.ipa
+*.app
+
+## Obj-C/Swift specific
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
